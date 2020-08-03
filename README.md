@@ -19,4 +19,4 @@ You are welcome to improve how this code looks or how the program acts!
 
 ## Donations
 
-You can donate to me if you would like. Just sumbit an issue request and we can work it out there.
+You can donate to me if you would like. Just submit an issue request and we can work it out there.
